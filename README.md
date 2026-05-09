@@ -1,6 +1,6 @@
 # Hi, I'm Yaroslav
 
-🛠️ Product engineering | 🤖 AI tooling | 🚀 Web apps
+🛠️ Product engineering | 🤖 AI tooling
 
 > Building practical tools, automations, and small products that move ideas into production quickly.
 
@@ -27,6 +27,4 @@
 
 ## Connect
 
-- GitHub: [github.com/voloshinhq](https://github.com/voloshinhq)
-- Telegram: [t.me/voloshinhq](https://t.me/voloshinhq)
-- Email: [hello@voloshinhq.com](mailto:hello@voloshinhq.com)
+- Email: [voloshinhq@gmail.com](mailto:voloshinhq@gmail.com)
