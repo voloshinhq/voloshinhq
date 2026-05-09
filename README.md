@@ -1,6 +1,6 @@
 # Hi, I'm Yaroslav
 
-📍 Moscow | 🛠️ Product engineering | 🤖 AI tooling | 🚀 Web apps
+🛠️ Product engineering | 🤖 AI tooling | 🚀 Web apps
 
 > Building practical tools, automations, and small products that move ideas into production quickly.
 
